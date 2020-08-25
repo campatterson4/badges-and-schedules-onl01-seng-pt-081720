@@ -7,6 +7,7 @@ end
 def batch_badge_creator(people)
   badges = []
   people.each do|badge|
+  
     
   
   
