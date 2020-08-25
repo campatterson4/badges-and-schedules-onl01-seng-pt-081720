@@ -25,6 +25,7 @@ def printer(people)
     puts badge
   end
   
-  assign_rooms(people).each do 
+  assign_rooms(people).each do |badge|
+    
   
   
