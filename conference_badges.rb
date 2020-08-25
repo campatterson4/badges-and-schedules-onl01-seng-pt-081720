@@ -9,7 +9,10 @@ def batch_badge_creator(people)
   people.each do|badge|
   badges.push("Hello, my name is #{badge}.")
 end
-return
+return badges
+end
+
+
     
   
   
