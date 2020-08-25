@@ -14,7 +14,7 @@ end
 
 def assign_rooms(speakers)
   assign = []
-  speakers.each_with_index 
+  speakers.each_with_index{speaker|index}
     
   
   
